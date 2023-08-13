@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g -shared -Wl,-soname,libCCUtilities.so -o libCCUtilities.so CMakeFiles/CCUtilities.dir/library.c.o 
